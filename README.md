@@ -247,12 +247,15 @@ are closed to a lot of data.
 At the result, I think that the best result is K = 3 but, K = 5 maybe acceptable.
 
 
-<svg>
-   <span style="display: table-cell; text-align: center; padding: 0px 5px;">
+<div>
+    <span style="display: table-cell; text-align: center; padding: 0px 5px;">
         <span style="padding: 0px 5px;">1</span>
         <span style="border-top: 1px solid; display: block; padding: 0px 5px;">2</span>
     </span>
-</svg>
+</div>
+
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 
 
