@@ -34,7 +34,7 @@ f(x) = w<sub>1</sub>x + w<sub>0</sub>
 
 N = number of data
  
-<div>
+<div style="display: table;">
   <div class="w1" style="display: table-cell; vertical-align: middle;">w<sub>1</sub> = </div>
   <span class="Fraction" style="display: table-cell; text-align: center; padding: 0px 5px;">
     <span class="Numerator" style="padding: 0px 5px;">
@@ -46,7 +46,7 @@ N = number of data
   </span>
 </div>
 
-<div>
+<div style="display: table;">
   <div class="w0" style="display: table-cell; vertical-align: middle;">w<sub>0</sub> = </div>
   <span class="Fraction" style="display: table-cell; text-align: center; padding: 0px 5px;">
     <span class="Numerator" style="padding: 0px 5px;">1</span>
