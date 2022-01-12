@@ -247,7 +247,7 @@ are closed to a lot of data.
 At the result, I think that the best result is K = 3 but, K = 5 maybe acceptable.
 
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+<img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
 
 
 
