@@ -33,27 +33,13 @@
 f(x) = w<sub>1</sub>x + w<sub>0</sub>
 
 N = number of data
- 
-<div>
-  <div class="w1" style="display: table-cell; vertical-align: middle;">w<sub>1</sub> = </div>
-  <span class="Fraction" style="display: table-cell; text-align: center; padding: 0px 5px;">
-    <span class="Numerator" style="padding: 0px 5px;">
-    N &Sigma; x<sub>i</sub>y<sub>i</sub> - (&Sigma; x<sub>i</sub>)(&Sigma; y<sub>i</sub>)
-    </span>
-    <span class="Denominator" style="border-top: 1px solid; display: block; padding: 0px 5px;">
-    N &Sigma; x<sub>i</sub><sup>2</sup> - (&Sigma; x<sub>i</sub>)<sup>2</sup>
-    </span>
-  </span>
-</div>
 
-<div>
-  <div class="w0" style="display: table-cell; vertical-align: middle;">w<sub>0</sub> = </div>
-  <span class="Fraction" style="display: table-cell; text-align: center; padding: 0px 5px;">
-    <span class="Numerator" style="padding: 0px 5px;">1</span>
-    <span class="Denominator" style="border-top: 1px solid; display: block; padding: 0px 5px;">N</span>
-  </span>
-  <div style="display: table-cell; vertical-align: middle;">(&Sigma; y<sub>i</sub>) - w<sub>1</sub> (&Sigma; x<sub>i</sub>)</div>
-</div>
+w<sub>1</sub> =
+( N &Sigma; x<sub>i</sub>y<sub>i</sub> - (&Sigma; x<sub>i</sub>)(&Sigma; y<sub>i</sub>) )
+&frasl;
+( N &Sigma; x<sub>i</sub><sup>2</sup> - (&Sigma; x<sub>i</sub>)<sup>2</sup> )
+
+w<sub>0</sub> = ( 1 &frasl; N ) (&Sigma; y<sub>i</sub>) - w<sub>1</sub> (&Sigma; x<sub>i</sub>)
 
 ### Model
 N = 10
@@ -245,17 +231,3 @@ there is a lot of data. K = 3 is very good. K = 4 is maybe acceptable, but it is
 orange cluster. K = 5 maybe acceptable, because locations of the centroids are not bad and they
 are closed to a lot of data.
 At the result, I think that the best result is K = 3 but, K = 5 maybe acceptable.
-
-
-<div>
-    <span style="display: table-cell; text-align: center; padding: 0px 5px;">
-        <span style="padding: 0px 5px;">1</span>
-        <span style="border-top: 1px solid; display: block; padding: 0px 5px;">2</span>
-    </span>
-</div>
-
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
-
-
-
