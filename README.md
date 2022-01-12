@@ -247,12 +247,7 @@ are closed to a lot of data.
 At the result, I think that the best result is K = 3 but, K = 5 maybe acceptable.
 
 
-<div media:type="text/omd">
-    <span style="display: table-cell; text-align: center; padding: 0px 5px;">
-        <span style="padding: 0px 5px;">1</span>
-        <span style="border-top: 1px solid; display: block; padding: 0px 5px;">2</span>
-    </span>
-</div>
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 
 
