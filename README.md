@@ -245,3 +245,12 @@ there is a lot of data. K = 3 is very good. K = 4 is maybe acceptable, but it is
 orange cluster. K = 5 maybe acceptable, because locations of the centroids are not bad and they
 are closed to a lot of data.
 At the result, I think that the best result is K = 3 but, K = 5 maybe acceptable.
+
+
+<span class="Fraction" style="display: table-cell; text-align: center; padding: 0px 5px;">
+    <span class="Numerator" style="padding: 0px 5px;">
+    1
+    </span>
+    <span class="Denominator" style="border-top: 1px solid; display: block; padding: 0px 5px;">
+    2
+    </span>
