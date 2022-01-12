@@ -34,8 +34,8 @@ f(x) = w<sub>1</sub>x + w<sub>0</sub>
 
 N = number of data
  
-<div>
-  <div class="w1" style="display: table-cell; vertical-align: middle;">w<sub>1</sub> = </div>
+<span style="display: block">
+  <span class="w1" style="display: table-cell; vertical-align: middle;">w<sub>1</sub> = </span>
   <span class="Fraction" style="display: table-cell; text-align: center; padding: 0px 5px;">
     <span class="Numerator" style="padding: 0px 5px;">
     N &Sigma; x<sub>i</sub>y<sub>i</sub> - (&Sigma; x<sub>i</sub>)(&Sigma; y<sub>i</sub>)
@@ -44,16 +44,16 @@ N = number of data
     N &Sigma; x<sub>i</sub><sup>2</sup> - (&Sigma; x<sub>i</sub>)<sup>2</sup>
     </span>
   </span>
-</div>
+</span>
 
-<div>
-  <div class="w0" style="display: table-cell; vertical-align: middle;">w<sub>0</sub> = </div>
+<span style="display: block">
+  <span class="w0" style="display: table-cell; vertical-align: middle;">w<sub>0</sub> = </span>
   <span class="Fraction" style="display: table-cell; text-align: center; padding: 0px 5px;">
     <span class="Numerator" style="padding: 0px 5px;">1</span>
     <span class="Denominator" style="border-top: 1px solid; display: block; padding: 0px 5px;">N</span>
   </span>
-  <div style="display: table-cell; vertical-align: middle;">(&Sigma; y<sub>i</sub>) - w<sub>1</sub> (&Sigma; x<sub>i</sub>)</div>
-</div>
+  <span style="display: table-cell; vertical-align: middle;">(&Sigma; y<sub>i</sub>) - w<sub>1</sub> (&Sigma; x<sub>i</sub>)</span>
+</span>
 
 ### Model
 N = 10
